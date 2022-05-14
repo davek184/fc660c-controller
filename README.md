@@ -15,4 +15,4 @@ RGB underglow lights can be added via a JST connector. Rooski15 has a great how 
 ## Bill of materials (BOM)
 Please have a look at the manufacuring files!
 
-Ignore Rev1.0 it had problems with the LED connector.  Leaving in the Repo incase someone needs to refer back to them.
+_Ignore Rev1.0 it had problems with the LED connector.  Leaving in the Repo incase someone needs to refer back to them._
