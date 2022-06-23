@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC
+100nf capacitor,"C1,C2,C3,C4,C5",805,C1711
+4.7uf capacitor,C6,805,C1779
+1uf capacitor,"C7,C9,C10,C11",805,C318694
+4.7nF capacitor,C8,805,C21217
+10k ohm resistor,"R3,R4",805,C163957
+22 ohm resistor,"R1,R2",805,C168490
+5.1k ohm resistor,"R5,R6",805,C164004
+1M ohm resistor,R7,805,C163969
+Microcontroller,U1,QFP-44,C44854
+Diode ESD,U2,805,C7519
+Resonator,X1,SMD,C341521
+PTC Fuse,F1,SOT-23-6L,C261942
+USB-C Connector,J1,SMD,C165948
+Board to board connector,J3,TH,C506679
+Tactile switch,SW1,SMD,C92584
+JST Connector,J4,SMD,C160404
+Linear Voltage Regulator 3.3V,U3,SMD,C347376
