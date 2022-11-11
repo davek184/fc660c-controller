@@ -6,6 +6,7 @@ RGB underglow lights can be added via a JST connector. Rooski15 has a great how 
 
 ![FC660CFront](fc660c.dk.jpg)
 ![FC660CBack](fc660c.dk.back.jpg)
+![Photo](https://i.imgur.com/EDlcPC4.jpg)
 
 ## Features
 - Fully compatible with keymaps for Hasu's FC660C controller
