@@ -4,7 +4,7 @@ Firmware Update June 2024
 
 A few people reported their insert LED was always on.  The firmware files below resolve that pick the version you would like:
 
-- [Insert LED off (most people)](davek184_fc660c_vial_BgRgb44LEDs_InsertLED_Off.hex)
+- [Insert LED off](davek184_fc660c_vial_BgRgb44LEDs_InsertLED_Off.hex) *(there is NO insert LED or always want it off, most people)*
 - [Insert LED Num Lock](davek184_fc660c_vial_BgRgb44LEDs_InsertLED_NumLock.hex)
 - [Insert LED Scroll Lock](davek184_fc660c_vial_BgRgb44LEDs_InsertLED_ScrollLock.hex)
 
